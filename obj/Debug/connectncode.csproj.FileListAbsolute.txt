@@ -1,0 +1,9 @@
+E:\connectncode\bin\MyBlog.dll
+E:\connectncode\bin\MyBlog.pdb
+E:\connectncode\bin\BusinessLogicLayer.dll
+E:\connectncode\bin\DatabaseLayer.dll
+E:\connectncode\bin\BusinessLogicLayer.pdb
+E:\connectncode\bin\DatabaseLayer.pdb
+E:\connectncode\obj\Debug\connectncode.csprojResolveAssemblyReference.cache
+E:\connectncode\obj\Debug\MyBlog.dll
+E:\connectncode\obj\Debug\MyBlog.pdb

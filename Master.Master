@@ -1,0 +1,190 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master.master.cs" Inherits="MyBlog.Master" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Welcome</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script type="text/javascript" src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link href="Style/slider.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+        .back-to-top
+        {
+            cursor: pointer;
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            display: none;
+            background: #004c70;
+        }
+        ul#myTopnav li a:hover
+        {
+            background: #fff;
+            border-radius: 7px;
+            color: #000;
+        }
+        ul#myTopnav li a
+        {
+            color: #fff;
+            transition: 0.5s;
+        }
+        
+        
+        .copyright
+        {
+            color: #fff;
+            background: black;
+            line-height: 30px;
+            min-height: 30px;
+            padding: 7px 0;
+        }
+        .design
+        {
+            color: #fff;
+            line-height: 30px;
+            min-height: 30px;
+            padding: 7px 0;
+            text-align: right;
+        }
+    </style>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div class="container-fluid">
+        <nav class="navbar navbar-inverse navbar-fixed-top" style="border-style: none">
+                <div class="container-fluid" style="background:#000">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button> 
+                        <a class="navbar-brand" href="Index.aspx" style="font-weight:bolder;color:white;padding-left:1.3em">Connect N Code </a>                                               
+                    </div>
+                    <div class="container">
+                        <div id="navbar" class="navbar-collapse collapse">                         
+                          <ul class="nav navbar-nav navbar-right" id="myTopnav">   
+            	              <li> <a href="Index.aspx">Home</a></li>    
+                              <li> <a href="about.aspx">About Us </a></li>                              
+                              <li> <a href="signUp.aspx">Sign Up</a></li>
+                              <li> <a href="projects.aspx">Projects</a></li>
+                              <li> <a href="AdminArea.aspx">Admin Area</a></li>
+				           </ul>
+                    </div>
+                  </div>
+              </div>                
+     </nav>
+        <div style="padding-top: 60px">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <div style="font-weight: bold; background: #000; width: 100%; padding-top: 1em">
+            <div class="row">
+                <div class="col-lg-3 col-md-3">
+                    <ul class="list-unstyled clear-margins">
+                        <li class="widget-container widget_nav_menu">
+                            <ul style="list-style-type: none">
+                                <li><a href="https://github.com" target="_blank">Facebook Profile</a></li>
+                                <li><a href="https://github.com" target="_blank">Github Profile</a></li>
+                                <li><a href="https://www.linkedin.com" target="_blank">Linkedin Profile</a></li>
+                                <li><a href="https://www.linkedin.com" target="_blank">Google+ Profile</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-lg-3 col-md-3">
+                    <ul class="list-unstyled clear-margins">
+                        <li class="widget-container widget_nav_menu">
+                            <ul style="list-style-type: none">
+                                <li><a href="https://www.codechef.com" target="_blank">Codechef</a></li>
+                                <li><a href="http://www.geeksforgeeks.org" target="_blank">GeeksForGeeks</a></li>
+                                <li><a href="https://www.tutorialspoint.com/" target="_blank">Tutorials Point</a></li>
+                                <li><a href="https://www.linkedin.com" target="_blank">Junksqaure </a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-lg-3 col-md-3">
+                    <ul class="list-unstyled clear-margins">
+                        <li class="widget-container widget_nav_menu">
+                            <ul style="list-style-type: none">
+                                <li><a href="https://www.youtube.com/user/nptelhrd" target="_blank">NPTEL</a></li>
+                                <li><a href="https://www.youtube.com/user/MIT" target="_blank">MIT Opencourseware</a></li>
+                                <li><a href="http://stackoverflow.com/" target="_blank">Stack Overflow</a></li>
+                                <li><a href="https://www.linkedin.com" target="_blank">Xampaperz</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-lg-3 col-md-3">
+                    <ul class="list-unstyled clear-margins">
+                        <li class="widget-container widget_nav_menu">
+                            <ul style="list-style-type: none; color: Black">
+                                <div class="footerp" style="color: #fff">
+                                    <p>
+                                        <b>Email id:</b> <a href="#">connectncode@gmail.com</a></p>
+                                    <p>
+                                        <b>GGSIPU</b> Dwarka, New Delhi</p>
+                                    <p>
+                                        <b>Phone Numbers : </b>9278829666
+                                    </p>
+                                </div>
+                            </ul>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <div class="container-fluid">
+                    <div class="container-fluid">
+                        <hr class="colorgraph" />
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                            <div class="copyright">
+                                © 2016, Connect N Code, All rights reserved
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                            <div class="copyright" style="text-align: right">
+                                Designed &nbsp;| &nbsp;Developed by Connect N Code
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <a id="back-to-top" href="#" class="btn btn-default btn-lg back-to-top" role="button"
+            title="Click to return on the top page" data-toggle="tooltip" data-placement="left">
+            <span class="glyphicon glyphicon-chevron-up"></span></a>
+        <script type="text/javascript">
+            $(document).ready(function () {
+                $(window).scroll(function () {
+                    if ($(this).scrollTop() > 50) {
+                        $('#back-to-top').fadeIn();
+                    } else {
+                        $('#back-to-top').fadeOut();
+                    }
+                });
+                // scroll body to 0px on click
+                $('#back-to-top').click(function () {
+                    $('#back-to-top').tooltip('hide');
+                    $('body,html').animate({
+                        scrollTop: 0
+                    }, 800);
+                    return false;
+                });
+
+                $('#back-to-top').tooltip('show');
+
+            });
+        </script>
+    </div>
+    </form>
+</body>
+</html>

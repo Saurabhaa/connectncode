@@ -1,0 +1,28 @@
+D:\My\ASP.net\MyBlog\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\My\ASP.net\MyBlog\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\My\ASP.net\MyBlog\BusinessLogicLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\My\ASP.net\MyBlog\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\My\ASP.net\MyBlog\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\My\ASP.net\MyBlog\BusinessLogicLayer\bin\Debug\DatabaseLayer.dll
+D:\My\ASP.net\MyBlog\BusinessLogicLayer\bin\Debug\DatabaseLayer.pdb
+D:\My Folder\ASP.net\MyBlog\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\My Folder\ASP.net\MyBlog\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\My Folder\ASP.net\MyBlog\BusinessLogicLayer\bin\Debug\DatabaseLayer.dll
+D:\My Folder\ASP.net\MyBlog\BusinessLogicLayer\bin\Debug\DatabaseLayer.pdb
+D:\My Folder\ASP.net\MyBlog\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\My Folder\ASP.net\MyBlog\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\My Folder\ASP.net\MyBlog\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+D:\web-dev\blog\MyBlog\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\web-dev\blog\MyBlog\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\web-dev\blog\MyBlog\BusinessLogicLayer\bin\Debug\DatabaseLayer.dll
+D:\web-dev\blog\MyBlog\BusinessLogicLayer\bin\Debug\DatabaseLayer.pdb
+D:\web-dev\blog\MyBlog\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+D:\web-dev\blog\MyBlog\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\web-dev\blog\MyBlog\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+E:\connectncode\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+E:\connectncode\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+E:\connectncode\BusinessLogicLayer\bin\Debug\DatabaseLayer.dll
+E:\connectncode\BusinessLogicLayer\bin\Debug\DatabaseLayer.pdb
+E:\connectncode\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+E:\connectncode\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+E:\connectncode\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

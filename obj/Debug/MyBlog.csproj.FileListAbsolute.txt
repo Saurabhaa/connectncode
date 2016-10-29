@@ -1,0 +1,36 @@
+D:\My\ASP.net\MyBlog\bin\MyBlog.dll
+D:\My\ASP.net\MyBlog\bin\MyBlog.pdb
+D:\My\ASP.net\MyBlog\obj\Debug\ResolveAssemblyReference.cache
+D:\My\ASP.net\MyBlog\obj\Debug\MyBlog.dll
+D:\My\ASP.net\MyBlog\obj\Debug\MyBlog.pdb
+D:\My\ASP.net\MyBlog\bin\BusinessLogicLayer.dll
+D:\My\ASP.net\MyBlog\bin\DatabaseLayer.dll
+D:\My\ASP.net\MyBlog\bin\BusinessLogicLayer.pdb
+D:\My\ASP.net\MyBlog\bin\DatabaseLayer.pdb
+D:\My Folder\ASP.net\MyBlog\bin\MyBlog.dll
+D:\My Folder\ASP.net\MyBlog\bin\MyBlog.pdb
+D:\My Folder\ASP.net\MyBlog\bin\BusinessLogicLayer.dll
+D:\My Folder\ASP.net\MyBlog\bin\DatabaseLayer.dll
+D:\My Folder\ASP.net\MyBlog\bin\BusinessLogicLayer.pdb
+D:\My Folder\ASP.net\MyBlog\bin\DatabaseLayer.pdb
+D:\My Folder\ASP.net\MyBlog\obj\Debug\MyBlog.dll
+D:\My Folder\ASP.net\MyBlog\obj\Debug\MyBlog.pdb
+D:\My Folder\ASP.net\MyBlog\obj\Debug\MyBlog.csprojResolveAssemblyReference.cache
+D:\web-dev\blog\MyBlog\bin\MyBlog.dll
+D:\web-dev\blog\MyBlog\bin\MyBlog.pdb
+D:\web-dev\blog\MyBlog\bin\BusinessLogicLayer.dll
+D:\web-dev\blog\MyBlog\bin\DatabaseLayer.dll
+D:\web-dev\blog\MyBlog\bin\BusinessLogicLayer.pdb
+D:\web-dev\blog\MyBlog\bin\DatabaseLayer.pdb
+D:\web-dev\blog\MyBlog\obj\Debug\MyBlog.csprojResolveAssemblyReference.cache
+D:\web-dev\blog\MyBlog\obj\Debug\MyBlog.dll
+D:\web-dev\blog\MyBlog\obj\Debug\MyBlog.pdb
+E:\connectncode\bin\MyBlog.dll
+E:\connectncode\bin\MyBlog.pdb
+E:\connectncode\bin\BusinessLogicLayer.dll
+E:\connectncode\bin\DatabaseLayer.dll
+E:\connectncode\bin\BusinessLogicLayer.pdb
+E:\connectncode\bin\DatabaseLayer.pdb
+E:\connectncode\obj\Debug\MyBlog.csprojResolveAssemblyReference.cache
+E:\connectncode\obj\Debug\MyBlog.dll
+E:\connectncode\obj\Debug\MyBlog.pdb

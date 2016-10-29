@@ -1,0 +1,18 @@
+D:\My\ASP.net\MyBlog\DatabaseLayer\bin\Debug\DatabaseLayer.dll
+D:\My\ASP.net\MyBlog\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
+D:\My\ASP.net\MyBlog\DatabaseLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\My\ASP.net\MyBlog\DatabaseLayer\obj\Debug\DatabaseLayer.dll
+D:\My\ASP.net\MyBlog\DatabaseLayer\obj\Debug\DatabaseLayer.pdb
+D:\My Folder\ASP.net\MyBlog\DatabaseLayer\bin\Debug\DatabaseLayer.dll
+D:\My Folder\ASP.net\MyBlog\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
+D:\My Folder\ASP.net\MyBlog\DatabaseLayer\obj\Debug\DatabaseLayer.dll
+D:\My Folder\ASP.net\MyBlog\DatabaseLayer\obj\Debug\DatabaseLayer.pdb
+D:\web-dev\blog\MyBlog\DatabaseLayer\bin\Debug\DatabaseLayer.dll
+D:\web-dev\blog\MyBlog\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
+D:\web-dev\blog\MyBlog\DatabaseLayer\obj\Debug\DatabaseLayer.dll
+D:\web-dev\blog\MyBlog\DatabaseLayer\obj\Debug\DatabaseLayer.pdb
+D:\web-dev\blog\MyBlog\DatabaseLayer\obj\Debug\DatabaseLayer.csprojResolveAssemblyReference.cache
+E:\connectncode\DatabaseLayer\bin\Debug\DatabaseLayer.dll
+E:\connectncode\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
+E:\connectncode\DatabaseLayer\obj\Debug\DatabaseLayer.dll
+E:\connectncode\DatabaseLayer\obj\Debug\DatabaseLayer.pdb

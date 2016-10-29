@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="D:\web-dev\blog\blog published" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="10/08/2016 20:07:24" />
+    <file relUrl="bin/DatabaseLayer.dll" publishTime="10/08/2016 20:05:54" />
+    <file relUrl="bin/MyBlog.dll" publishTime="10/08/2016 20:05:55" />
+    <file relUrl="bin/BusinessLogicLayer.dll" publishTime="10/08/2016 20:05:55" />
+    <file relUrl="Images/Untitled.png" publishTime="03/05/2016 00:14:24" />
+    <file relUrl="Images/cons.gif" publishTime="02/06/2016 21:51:10" />
+    <file relUrl="Welcome.aspx" publishTime="03/05/2016 01:11:22" />
+    <file relUrl="bin/DatabaseLayer.pdb" publishTime="10/08/2016 20:05:54" />
+    <file relUrl="AdminLogin.aspx" publishTime="10/08/2016 16:11:18" />
+    <file relUrl="BlogPost.aspx" publishTime="10/08/2016 19:33:32" />
+    <file relUrl="bin/MyBlog.pdb" publishTime="10/08/2016 20:05:55" />
+    <file relUrl="bin/BusinessLogicLayer.pdb" publishTime="10/08/2016 20:05:55" />
+    <file relUrl="Style/style.css" publishTime="02/14/2016 23:40:36" />
+    <file relUrl="Master.Master" publishTime="10/08/2016 19:59:09" />
+    <file relUrl="signUp.aspx" publishTime="10/08/2016 19:18:10" />
+    <file relUrl="Index.aspx" publishTime="10/08/2016 19:49:01" />
+  </publishProfile>
+</publishData>

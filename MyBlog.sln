@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "connectncode", "connectncode.csproj", "{878C06D8-3F0A-4615-9C95-9FA1D1CBF2DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogicLayer", "BusinessLogicLayer\BusinessLogicLayer.csproj", "{30214EA0-CC9C-4730-B97C-46D382786583}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseLayer", "DatabaseLayer\DatabaseLayer.csproj", "{602EC8CA-472A-4878-9A0E-A17D63802C16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{878C06D8-3F0A-4615-9C95-9FA1D1CBF2DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{878C06D8-3F0A-4615-9C95-9FA1D1CBF2DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{878C06D8-3F0A-4615-9C95-9FA1D1CBF2DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{878C06D8-3F0A-4615-9C95-9FA1D1CBF2DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30214EA0-CC9C-4730-B97C-46D382786583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30214EA0-CC9C-4730-B97C-46D382786583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30214EA0-CC9C-4730-B97C-46D382786583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30214EA0-CC9C-4730-B97C-46D382786583}.Release|Any CPU.Build.0 = Release|Any CPU
+		{602EC8CA-472A-4878-9A0E-A17D63802C16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{602EC8CA-472A-4878-9A0E-A17D63802C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{602EC8CA-472A-4878-9A0E-A17D63802C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{602EC8CA-472A-4878-9A0E-A17D63802C16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
